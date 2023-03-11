@@ -1,5 +1,5 @@
 # GAME.ZIP
-
+https://rowan-eyebrow-946.notion.site/project-kt-71d4a3160a3b4bee905af925d2534ee7
 1. 개발계획서 
 
 https://www.notion.so/ver-2-2-a1e93e5766e541ff9dce4a250b872eca?pvs=4
